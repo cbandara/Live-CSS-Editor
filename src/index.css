@@ -22,6 +22,11 @@ h1 {
   height: 300px;
   background-color: #11042b;
   margin: auto;
+  color: #e3e3e3;
+  padding: 40px;
+  font-size: 19px;
+  font-family: 'Space Mono', monospace;
+  border-style: none;
 }
 
 .css-input {

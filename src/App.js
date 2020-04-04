@@ -32,9 +32,9 @@ export default class App extends Component {
           <p>Example: {example}</p>
         </header>
         <body>
-          <div className="edit-box">
+          <div >
             <form>
-              <textarea className="css-input" id="css-input" name="css-input" onChange={this.handleChange}></textarea>
+              <textarea className="edit-box" id="css-input" name="css-input" onChange={this.handleChange}></textarea>
             </form>
             <p>{this.state.cssInput}</p>
           </div>

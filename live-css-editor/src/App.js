@@ -1,4 +1,5 @@
 import React from 'react';
+import EditBox from './components/EditBox/EditBox';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
           Live CSS Editor
         </h1>
       </header>
+      <EditBox></EditBox>
     </div >
   );
 }

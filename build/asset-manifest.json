@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Live-CSS-Editor/static/css/main.40dfa3eb.chunk.css",
+    "main.js": "/Live-CSS-Editor/static/js/main.c1f0f400.chunk.js",
+    "main.js.map": "/Live-CSS-Editor/static/js/main.c1f0f400.chunk.js.map",
+    "runtime-main.js": "/Live-CSS-Editor/static/js/runtime-main.17780671.js",
+    "runtime-main.js.map": "/Live-CSS-Editor/static/js/runtime-main.17780671.js.map",
+    "static/js/2.594fc457.chunk.js": "/Live-CSS-Editor/static/js/2.594fc457.chunk.js",
+    "static/js/2.594fc457.chunk.js.map": "/Live-CSS-Editor/static/js/2.594fc457.chunk.js.map",
+    "index.html": "/Live-CSS-Editor/index.html",
+    "precache-manifest.45b67e490b2211488524925cf39cc834.js": "/Live-CSS-Editor/precache-manifest.45b67e490b2211488524925cf39cc834.js",
+    "service-worker.js": "/Live-CSS-Editor/service-worker.js",
+    "static/css/main.40dfa3eb.chunk.css.map": "/Live-CSS-Editor/static/css/main.40dfa3eb.chunk.css.map",
+    "static/js/2.594fc457.chunk.js.LICENSE.txt": "/Live-CSS-Editor/static/js/2.594fc457.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17780671.js",
+    "static/js/2.594fc457.chunk.js",
+    "static/css/main.40dfa3eb.chunk.css",
+    "static/js/main.c1f0f400.chunk.js"
+  ]
+}
